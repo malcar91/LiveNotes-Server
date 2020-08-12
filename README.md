@@ -3,8 +3,8 @@
 This is the backend to my Live Notes app
 
 ## Important Links
-[API Repo]
-[API Deployed]
+![API Repo]https://github.com/malcar91/LiveNotes-Server
+![API Deployed]
 
 ## ERD
 
@@ -14,5 +14,3 @@ This is the backend to my Live Notes app
 ## Route
 
 - User ---< Notebooks ---< Notes
-
-### Authentication
